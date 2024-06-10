@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.benefits {
+    border: 2px solid #333; /* Borde de 2 píxeles */
+    padding: 20px;
+    font-size: 23px; /* Tamaño de fuente de 23 píxeles */
+    max-width: 600px; /* Ancho máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor */
+}
+
+.benefits h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.benefits ul {
+    list-style-type: disc;
+    padding-left: 40px;
+}
+
+.benefits ul li {
+    margin-bottom: 10px;
+}
